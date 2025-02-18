@@ -3,7 +3,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.paygopoc",
+    "package_name": "com.example.paygopoc.app",
     "sha256_cert_fingerprints":
    ["5E:21:FC:3A:93:05:91:B5:BB:35:75:63:1D:D3:DA:F2:BA:E1:D7:03:18:A3:C5:7B:EC:EC:51:11:1D:8B:91:C9"]
   }
